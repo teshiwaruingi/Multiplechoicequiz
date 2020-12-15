@@ -1,0 +1,7 @@
+start
+Sally
+a
+b
+d
+f
+pause
