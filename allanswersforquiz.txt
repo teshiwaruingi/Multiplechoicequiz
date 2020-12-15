@@ -1,0 +1,10 @@
+1767;1867;1847;1965
+Washington, D.C;Hampton, Virginia;Dallas, Texas;Atlanta, Georgia
+19;6;13;7 
+Barack Obama;Dr. Wayne Fredick;Dr. Umar Johnson;Dr. Sidney A. Ribeau
+"Think, Connect, Apply, Innovate";"Cultivating the Next Generation";"Veritas";"Truth and Service"
+College of Medicine;School of Veterinary Medicine;School of Law;School of Divinty
+Bison;Hawk;Angle;Crusaders
+Green, Red, White;Yellow, Purple, Black;Red, White, Blue ;Orange, Blue, Green 
+Clarence Thomas;Thurgood Marshall;Damon Keith;Kamala Haris
+May 5th;February 21st;December 13th;March 2nd
